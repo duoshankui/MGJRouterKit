@@ -7,7 +7,7 @@
 
 #ifndef MGJRouterKit_h
 #define MGJRouterKit_h
-#import <MGJRouter/MGJRouter.h>
+#import "MGJRouter.h"
 #import "MGJRouter+TXCreateObject.h"
 #import "NSObject+TXTransfer.h"
 #endif /* MGJRouterKit_h */

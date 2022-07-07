@@ -11,6 +11,7 @@
 #endif
 
 #import "MGJRouter+TXCreateObject.h"
+#import "MGJRouter.h"
 #import "MGJRouterKit.h"
 #import "NSObject+TXTransfer.h"
 

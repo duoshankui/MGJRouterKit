@@ -1,23 +1,16 @@
 PODS:
-  - MGJRouter (0.10.0)
-  - MGJRouterKit (0.1.2):
-    - MGJRouter
+  - MGJRouterKit (0.1.2)
 
 DEPENDENCIES:
   - MGJRouterKit (from `../`)
-
-SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
-    - MGJRouter
 
 EXTERNAL SOURCES:
   MGJRouterKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
-  MGJRouterKit: 15620dbce11f80a94851f55e93f57a79495886bb
+  MGJRouterKit: 34159a3edb3b6ef2771bfb868c161f5dc360237b
 
 PODFILE CHECKSUM: 64ccc7fd4d1663cc6681d6411b1cb02e2823dd82
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.11.0

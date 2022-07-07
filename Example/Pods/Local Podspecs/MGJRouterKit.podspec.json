@@ -19,10 +19,5 @@
     "ios": "8.0"
   },
   "source_files": "MGJRouterKit/Classes/**/*.{h,m}",
-  "dependencies": {
-    "MGJRouter": [
-
-    ]
-  },
   "prefix_header_contents": "#import \"MGJRouterKit.h\""
 }
